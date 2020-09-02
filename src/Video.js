@@ -32,8 +32,6 @@ function Video() {
       ></video>
 
       <VideoFooter />
-
-      {/* Video Footer */}
       {/* Video SideBar */}
     </div>
   );
